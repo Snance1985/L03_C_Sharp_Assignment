@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SE5sg9Fk2k/iCZkKs4pAnAMMpHptNZ81R4G00mh6D9InT/zLCxGEEF3fbUwZXZGKCYVqBbaaXAq2Cql82kM3Q==",
+  "success": true,
+  "projectFilePath": "H:\\Bethel Tech\\coding classes\\csharp-course\\l03-assignment\\l03-assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
